@@ -9,13 +9,13 @@ https://priyanshu-clone-amazon.netlify.app
 ## Preview
 
 ### Home Page
-![Home](preview/Screenshot-home-page.png)
+![Home](preview-images/Screenshot-home-page.png)
 
 ### Products Section
-![Products](preview/Screenshot-hero-section.png)
+![Products](preview-images/Screenshot-hero-section.png)
 
 ### Footer
-![Footer](preview/Screenshot-footer.png)
+![Footer](preview-images/Screenshot-footer.png)
 
 ## Technologies Used
 - HTML
